@@ -1,0 +1,4 @@
+Data_Cleaning.py Cleans the JSON files by removing the non-ASCII characters
+Json_To_Csv.py Converts the cleaned JSON files to CSV Format
+User_Goal.py Takes user input for goal and suggests path 
+Reads_UserProfile.py Selects profession and User and suggests path 
